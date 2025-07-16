@@ -63,7 +63,7 @@ void supprimerFichiersCaches(std::vector<fs::path>& fichiersCaches) {
     }
 
     char choix;
-    std::cout << "\nSupprimer ces fichiers cachés ? (y/n) : ";
+    std::cout << "\nSupprimer ces fichiers cachés ? (y/n) : "; //EHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHHE >:P
     std::cin >> choix;
 
     if (choix == 'y' || choix == 'Y') {
